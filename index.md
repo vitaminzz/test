@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/vitaminzz/test/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 我在学习不要打扰我
+## 我在学习不要打扰我
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
